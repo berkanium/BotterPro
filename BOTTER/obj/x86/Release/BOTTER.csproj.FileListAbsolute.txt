@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Release\BOTTER.Form1.resources
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Release\BOTTER.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Release\BOTTER.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\bin\Release\BOTTER.exe
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\bin\Release\BOTTER.pdb
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Release\BOTTER.UpdateControl.resources
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Release\BOTTER.exe
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Release\BOTTER.pdb
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\BOTTER\BOTTER\obj\x86\Release\BOTTER.exe
+C:\Users\berka\OneDrive\Masaüstü\C#\C# PROGRAMLAR\BOTTER\BOTTER\obj\x86\Release\BOTTER.pdb

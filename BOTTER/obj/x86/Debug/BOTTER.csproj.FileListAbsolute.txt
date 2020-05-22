@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\bin\Debug\BOTTER.exe
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\bin\Debug\BOTTER.pdb
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Debug\BOTTER.Form1.resources
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Debug\BOTTER.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Debug\BOTTER.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Debug\BOTTER.exe
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Debug\BOTTER.pdb
+C:\Users\LENOVO\Desktop\BOTTER\BOTTER\obj\x86\Debug\BOTTER.csprojResolveAssemblyReference.cache
